@@ -1,0 +1,10 @@
+INSERT INTO livro (titulo, autor, ano_publicacao) VALUES ('Livro 1', 'Autor 1', 2000);
+INSERT INTO livro (titulo, autor, ano_publicacao) VALUES ('Livro 2', 'Autor 1', 2001);
+INSERT INTO livro (titulo, autor, ano_publicacao) VALUES ('Livro 3', 'Autor 2', 2002);
+INSERT INTO livro (titulo, autor, ano_publicacao) VALUES ('Livro 4', 'Autor 2', 2003);
+INSERT INTO livro (titulo, autor, ano_publicacao) VALUES ('Livro 5', 'Autor 3', 2004);
+INSERT INTO livro (titulo, autor, ano_publicacao) VALUES ('Livro 6', 'Autor 3', 2005);
+INSERT INTO livro (titulo, autor, ano_publicacao) VALUES ('Livro 7', 'Autor 4', 2006);
+INSERT INTO livro (titulo, autor, ano_publicacao) VALUES ('Livro 8', 'Autor 4', 2007);
+INSERT INTO livro (titulo, autor, ano_publicacao) VALUES ('Livro 9', 'Autor 5', 2008);
+INSERT INTO livro (titulo, autor, ano_publicacao) VALUES ('Livro 10', 'Autor 5', 2009);
